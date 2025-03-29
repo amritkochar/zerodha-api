@@ -1,3 +1,7 @@
+# Kite API credentials
+kite_access_token.json
+kite_secret.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
